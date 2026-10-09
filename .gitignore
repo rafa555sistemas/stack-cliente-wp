@@ -1,0 +1,6 @@
+# Secretos — NUNCA a git
+.env
+
+# Basura del sistema
+.DS_Store
+*.log
