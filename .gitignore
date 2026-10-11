@@ -1,0 +1,6 @@
+# Secretos
+.env
+
+# Basura del sistema
+.DS_Store
+*.log
