@@ -25,3 +25,4 @@ La web queda en `http://IP_DEL_SERVIDOR:8080` (o el puerto que pongas en `WP_POR
 
 ## Secretos
 Las credenciales viven en `.env`, que **no** está en git. Usa `.env.example` como plantilla.
+# Mejora aplicada en rama de desarrollo
